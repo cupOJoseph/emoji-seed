@@ -20,3 +20,11 @@ There are now more than 3600 emojis. Meaning emojis can be used instead of seed 
 When using this tool, keep in mind the same emoji with different skin colors or attributes, counts as a different emoji/bit in the seed.
 
 We're using Emoji 15 source: https://unicode.org/Public/emoji/15.0/
+
+Some emojis are actually 2 emojis encoded together. We tried to delete all of those for simplicity. Example:
+🧑‍🚀
+🧑🏻‍🚀
+🧑🏼‍🚀
+🧑🏽‍🚀
+🧑🏾‍🚀
+🧑🏿‍🚀
